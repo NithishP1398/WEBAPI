@@ -1,0 +1,49 @@
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.csproj.AssemblyReference.cache
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.AssemblyInfoInputs.cache
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.AssemblyInfo.cs
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.csproj.CoreCompileInputs.cache
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\appsettings.json
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\new web.exe
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\new web.deps.json
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\new web.runtimeconfig.json
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\new web.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\new web.pdb
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Api.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Api.ProviderBuilderExtensions.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Exporter.Console.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Exporter.OpenTelemetryProtocol.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Exporter.Prometheus.AspNetCore.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Extensions.Hosting.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.AspNetCore.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.Instrumentation.Http.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\staticwebassets\msbuild.new web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\staticwebassets\msbuild.build.new web.props
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.new web.props
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.new web.props
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\scopedcss\bundle\new web.styles.css
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.csproj.Up2Date
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\refint\new web.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.pdb
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\new web.genruntimeconfig.cache
+C:\Users\Nithish.Pattimani\source\repos\new web\obj\Debug\net8.0\ref\new web.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Azure.Monitor.OpenTelemetry.AspNetCore.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Azure.Monitor.OpenTelemetry.Exporter.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.PersistentStorage.Abstractions.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\OpenTelemetry.PersistentStorage.FileSystem.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Nithish.Pattimani\source\repos\new web\bin\Debug\net8.0\System.Memory.Data.dll
